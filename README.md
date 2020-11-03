@@ -1,1 +1,0 @@
-# N-Bittner-resume
