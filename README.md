@@ -40,6 +40,8 @@ Now you should be ready to set up a GitHub Pages website.
 4. Save the source setting.
 
 From here, you can use the link at the top of the GitHub Pages settings to see your website. Right now it will look very plain; but the Markdown formatting will already be applied. No fiddling with nested tags to get your basic formatting across. You can improve the visual appeal of your website further, by adding a Jekyll theme.
+(visual demonstration of the following steps)
+![should be a gif](stuff.gif) 
 
 1. return to the GitHub Pages settings.
 2. Select 'Change theme,' this will take you to a catalogue of simple Jekyll themes
